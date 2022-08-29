@@ -1,2 +1,6 @@
 # my_nano_config
-Config file (/etc/nano/.nanorc) for my nano text editor.
+Config file (/etc/nanorc) for my nano text editor.
+
+
+# screenshots
+
